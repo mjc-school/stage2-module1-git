@@ -1,0 +1,24 @@
+From c92149c5f53db8319f86f01126b79530dcc62321 Mon Sep 17 00:00:00 2001
+From: edilk <ed2803k@gmail.com>
+Date: Thu, 30 Mar 2023 13:36:00 +0600
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 584ba87..0406c12 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@
+ 
+ 
+ 
+-
+-
++git_1
++git_1
+-- 
+2.31.1.windows.1
+
