@@ -1,5 +1,5 @@
 # GIT
-Hello World
+Hello World!
 ## Materials
 
 1. [The most useful git commands](https://orga.cat/posts/most-useful-git-commands)
